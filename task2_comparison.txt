@@ -1,0 +1,17 @@
+Supervised vs Unsupervised Learning
+
+1. Data Type:
+Supervised → Uses labeled data
+Unsupervised → Uses unlabeled data
+
+2. Goal:
+Supervised → Predict output
+Unsupervised → Find patterns
+
+3. Example:
+Supervised → Instagram feed ranking
+Unsupervised → Spotify playlist grouping
+
+4. Output:
+Supervised → Fixed categories
+Unsupervised → Clusters/groups
